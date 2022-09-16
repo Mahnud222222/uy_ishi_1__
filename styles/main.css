@@ -452,9 +452,12 @@ body{
     background-image: url("../img/create_main_bg.jpg");
     background-repeat: no-repeat;
     border-radius: 10px;
+    
 }
 .plan__title{
-    margin: 125px 0 32px 86px;
+    padding-top: 125px;
+    margin-bottom: 32px;
+    margin-left: 86px;
     font-family: 'Fraunces';
     font-size: 72px;
     font-weight: 900;
@@ -466,6 +469,9 @@ body{
     line-height: 26px;
     color: #FEFCF7;
     opacity: 0.8;
+    width: 445px;
+    margin-left: 86px;
+    padding-bottom: 134px;
 }
 .sd__list{
     margin-top: 140px;
