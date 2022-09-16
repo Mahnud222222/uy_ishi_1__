@@ -481,7 +481,7 @@ body{
 .sd__list__line{
     width: 790px;
     background-color: #FDD6BA;
-    padding-top: 128px;
+    margin-top: 128px;
     margin-left: 85px;
     margin-bottom: 67px;
     z-index: -1;
