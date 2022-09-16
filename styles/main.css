@@ -448,3 +448,130 @@ body{
     color: #333D4B;
     text-decoration: none;
 }
+.plan{
+    background-image: url("../img/create_main_bg.jpg");
+    background-repeat: no-repeat;
+    border-radius: 10px;
+}
+.plan__title{
+    margin: 125px 0 32px 86px;
+    font-family: 'Fraunces';
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 72px;
+    color: #FEFCF7;
+}
+.plan__text{
+    font-size: 16px;
+    line-height: 26px;
+    color: #FEFCF7;
+    opacity: 0.8;
+}
+.sd__list{
+    margin-top: 140px;
+    color: #2C343E;
+    border-radius: 10px;
+}
+.sd__list__line{
+    width: 790px;
+    height: 1px;
+    background-color: #FDD6BA;
+    padding-top: 128px;
+    margin-left: 85px;
+    margin-bottom: 67px;
+    z-index: -1;
+}
+.sd__list__oval{
+    width: 29px;
+    height: 29px;
+    border: 2px solid #0E8784;
+    margin-top: -15px;
+    border-radius: 50%;
+}
+.sd__list__list{
+    display: flex;
+    justify-content: space-between;
+    width: 1045px;
+    margin: 0 auto;
+}
+.sd__list__strong{
+    font-family: 'Fraunces';
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 72px;
+    color:#FDD6BA;
+}
+.sd__list__title{
+    font-family: 'Fraunces';
+    font-size: 32px;
+    font-weight: 900;
+    line-height: 36px;
+    color: #FEFCF7; 
+    margin-top: 38px;
+    margin-bottom: 43px;
+}
+.sd__list__text{
+    font-size: 16px;
+    line-height: 26px;
+    color: #FEFCF7;
+    padding: bottom 100px; ;
+}
+.thre{
+    display: flex;
+    margin-right: 150px;
+    margin-top: 150px;
+}
+.thre__item{
+    width: 185px;
+    margin-top: 24px;
+    display: flex;
+    justify-content: space-between;
+}
+.thre__list__strong{
+    font-family: 'Fraunces';
+    font-size: 24px;
+    font-weight: 900;
+    line-height: 32px;
+    color:#83888F;   
+}
+.thre__list__text{
+    font-family: 'Fraunces';
+    font-size: 24px;
+    font-weight: 900;
+    line-height: 32px;
+    color:#83888F; 
+}
+.thre__list__text:hover{
+    color: #333D4B;
+}
+.main__thre__item{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.main__thre__list__div{
+    display: flex;
+    justify-content: space-between;
+}
+.main__thre__list__title{
+    align-items: center;
+    font-family: 'Fraunces';
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 48px;
+    color: #83888F;
+}
+.thre__inner__list{
+    display: flex;
+    justify-content: space-between;
+    width: 228px;
+    height: 250px;
+    background-color: #F4F1EB;
+    border-radius: 8px;
+}
+.main__thre__list{
+    width: 730px;
+}
+
+
+
