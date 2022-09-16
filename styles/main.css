@@ -475,23 +475,27 @@ body{
 }
 .sd__list{
     margin-top: 140px;
-    color: #2C343E;
+     background-color: #2C343E;
     border-radius: 10px;
 }
 .sd__list__line{
     width: 790px;
-    background-color: #FDD6BA;
-    margin-top: 128px;
-    margin-left: 85px;
-    margin-bottom: 67px;
+    background-color: #FEFCF7;
     z-index: -1;
+    display: flex;
+    justify-content: space-between;
+    height: 1px;
+    background-color:  #FDD6BA; 
+    margin-top: 95px;
+    margin-bottom: 82px;
 }
 .sd__list__oval{
-    width: 29px;
-    height: 29px;
-    border: 2px solid #0E8784;
+    background-color: #FEFCF7;
     margin-top: -15px;
     border-radius: 50%;
+    border: 2px solid  #0E8784 ;
+    width: 31px;
+    height: 31px;
 }
 .sd__list__list{
     display: flex;
