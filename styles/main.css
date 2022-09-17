@@ -671,7 +671,7 @@ body{
 .main__thre__list__span{
     color: #0e8784;
 }
-.#0E8784{
+.main__thre__list____butten{
     font-family: 'Fraunces';
     font-size: 18px;
     font-weight: 900;
@@ -680,7 +680,7 @@ body{
     background-color: #0E8784;
     border-radius: 6px;
 }
-.main__thre__list__span:hover{
+.main__thre__list____butten:hover{
     background-color: #66D2CF;
 }
 
