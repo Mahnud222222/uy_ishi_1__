@@ -505,6 +505,7 @@ body{
     height: 31px;
 }
 .sd__list__list{
+    list-style: none;
     display: flex;
     justify-content: space-between;
     width: 1045px;
@@ -552,6 +553,7 @@ body{
     color:#83888F;   
 }
 .thre__list__text{
+    text-decoration: none;
     font-family: 'Fraunces';
     font-size: 24px;
     font-weight: 900;
