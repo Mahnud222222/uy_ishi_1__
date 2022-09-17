@@ -478,11 +478,9 @@ body{
     margin-top: 140px;
      background-color: #2C343E;
     border-radius: 10px;
-    position: relative;
+
 }
 .sd__list__line{
-    top: 832px;
-    position: absolute;
     height: 2px;
     width: 790px;
     background-color: #FEFCF7;
