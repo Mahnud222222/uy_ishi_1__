@@ -594,13 +594,8 @@ body{
 .thre__inner__list{
     display: flex;
     justify-content: space-between;
-    width: 228px;
-    height: 250px;
     background-color: #F4F1EB;
     border-radius: 8px;
-}
-.main__thre__list{
-    width: 730px;
 }
 
 
