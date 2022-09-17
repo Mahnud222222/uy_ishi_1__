@@ -563,11 +563,6 @@ body{
 .thre__list__text:hover{
     color: #333D4B;
 }
-.main__thre__item{
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-}
 .main__thre__list__div{
     display: flex;
     justify-content: space-between;
