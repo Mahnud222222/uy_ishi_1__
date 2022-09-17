@@ -596,7 +596,7 @@ body{
     margin-bottom: 88px;
     margin-top: 56px;
     display: flex;
-    justify-content: space-between;
+    gap: 23px;
 }
 .thre__inner__item{
     background-color: #F4F1EB;
@@ -672,6 +672,9 @@ body{
     color: #0e8784;
 }
 .main__thre__list____butten{
+    border: none;
+
+    margin-left: 510px;
     font-family: 'Fraunces';
     font-size: 18px;
     font-weight: 900;
@@ -679,6 +682,7 @@ body{
     color: #FEFCF7;
     background-color: #0E8784;
     border-radius: 6px;
+    padding: 15px 35px;
 }
 .main__thre__list____butten:hover{
     background-color: #66D2CF;
