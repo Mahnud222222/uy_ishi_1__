@@ -660,10 +660,12 @@ body{
     font-size: 16px;
     line-height: 26px;
 }
-.main__thre__list__strong{
-    width: 540px;
+.main__thre__item2___inner__div{
+    width: 500px;
     margin-left: 64px;
     padding-bottom: 20px;
+}
+.main__thre__list__strong{
     font-family: 'Fraunces';
     font-size: 24px;
     font-weight: 900;
@@ -675,7 +677,6 @@ body{
 }
 .main__thre__list____butten{
     border: none;
-
     margin-left: 510px;
     font-family: 'Fraunces';
     font-size: 18px;
