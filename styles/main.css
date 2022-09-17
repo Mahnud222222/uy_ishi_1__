@@ -581,6 +581,8 @@ body{
     color: #83888F;
 }
 .main__thre__list__butten{
+    background-image: url("../img/tepa.svg");
+    background-repeat: no-repeat;
     display: inline-block;
     align-items: center;
     border: none;
