@@ -592,6 +592,7 @@ body{
     height: 48px;
 }
 .thre__inner__list{
+    list-style: none;
     margin-bottom: 88px;
     margin-top: 56px;
     display: flex;
@@ -601,6 +602,86 @@ body{
     background-color: #F4F1EB;
     border-radius: 8px;
     width: 228px;
+}
+.thre__inner__item2{
+    border-radius: 8px;
+    width: 228px; 
+    background-color: #0E8784;
+}
+.thre__inner__title{
+    padding-top: 32px;
+    margin-bottom: 28px;
+    font-family: 'Fraunces';
+    font-size: 24px;
+    font-weight: 900;
+    line-height: 32px;
+    color:#333D4B;
+}
+.thre__inner__text{
+    margin-top: 24px;
+    margin-left: 28px;
+    padding-bottom: 84px;
+    width: 170px;
+    font-size: 16px;
+    line-height: 26px;
+    color:#333D4B;
+}
+.thre__inner__title2{
+    padding-top: 32px;
+    margin-bottom: 28px;
+    font-family: 'Fraunces';
+    font-size: 24px;
+    font-weight: 900;
+    line-height: 32px;
+    color:#FFFFFF;
+}
+.thre__inner__text2{
+    margin-top: 24px;
+    margin-left: 28px;
+    padding-bottom: 84px;
+    width: 170px;
+    font-size: 16px;
+    line-height: 26px;
+    color:#FEFCF7;
+}
+.main__thre__item2__div{
+    margin-bottom: 50px;
+    width: 730px;
+    background-color:  #2C343E;
+}
+.main__thre__item2__title{
+    color: #FFFFFF;
+    opacity: 0.5;
+    padding-top: 31px;
+    margin-left: 64px;
+    margin-bottom: 8px;
+    font-size: 16px;
+    line-height: 26px;
+}
+.main__thre__list__strong{
+    width: 600px;
+    margin-left: 64px;
+    padding-bottom: 20px;
+    font-family: 'Fraunces';
+    font-size: 24px;
+    font-weight: 900;
+    line-height: 40px;
+    color: #fff;
+}
+.main__thre__list__span{
+    color: #0e8784;
+}
+.#0E8784{
+    font-family: 'Fraunces';
+    font-size: 18px;
+    font-weight: 900;
+    line-height: 25px;
+    color: #FEFCF7;
+    background-color: #0E8784;
+    border-radius: 6px;
+}
+.main__thre__list__span:hover{
+    background-color: #66D2CF;
 }
 
 
