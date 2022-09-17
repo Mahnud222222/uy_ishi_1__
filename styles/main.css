@@ -480,8 +480,10 @@ body{
     border-radius: 10px;
 
 }
-.sd__list__line{
+.p__t{
     padding-top: 100px;
+}
+.sd__list__line{
     height: 2px;
     width: 790px;
     background-color: #FEFCF7;
