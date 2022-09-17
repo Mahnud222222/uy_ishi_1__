@@ -481,6 +481,7 @@ body{
 
 }
 .sd__list__line{
+    padding-top: 100px;
     height: 2px;
     width: 790px;
     background-color: #FEFCF7;
@@ -524,6 +525,7 @@ body{
     margin-bottom: 43px;
 }
 .sd__list__text{
+    width: 250px;
     font-size: 16px;
     line-height: 26px;
     color: #FEFCF7;
