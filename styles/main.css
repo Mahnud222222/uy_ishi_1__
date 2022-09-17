@@ -565,6 +565,7 @@ body{
     color: #333D4B;
 }
 .main__thre__list__div{
+    height: 48px;
     display: flex;
     justify-content: space-between;
 }
