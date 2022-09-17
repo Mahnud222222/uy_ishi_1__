@@ -585,7 +585,7 @@ body{
     background-image: url("../img/tepa.svg");
     background-repeat: no-repeat;
     background-position-x: calc(50%);
-    background-position-y: 20px;
+    background-position-y: bottom;
     display: inline-block;
     align-items: center;
     border: none;
