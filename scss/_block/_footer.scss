@@ -1,0 +1,39 @@
+.site__footer{
+    background-color: #2C343E;
+}
+.main__footer__div{
+    padding-top: 47px;
+    padding-bottom: 37px;
+    display: flex;
+    gap: 391px;
+}
+.footer__logo__with__list{
+    width: 622px;
+    display: flex;
+    justify-content: space-between;
+}
+.footer__list{
+    align-items: center;
+    display: flex;
+    list-style: none;
+    gap: 32px;
+}
+.footer__item{
+   position: relative;
+   bottom: 10px;
+}
+.footer__list__link{
+   text-decoration: none; 
+   font-weight: 700;
+   font-style: 12px;
+   line-height: 15px;
+   color: #83888F;
+}
+.footer__list__link:hover{
+ color: #FEFCF7;
+}
+.footer__link__list{
+    display: flex;
+    list-style: none;
+    gap: 24px;
+}

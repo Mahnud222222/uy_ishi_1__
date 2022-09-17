@@ -7,7 +7,6 @@ body{
          url('../fonts/barlow-v12-latin-regular.woff2') format('woff2'), 
          url('../fonts/barlow-v12-latin-regular.woff') format('woff'); 
   }
-
 @font-face {
     font-family: 'Barlow';
     font-style: normal;
@@ -611,6 +610,7 @@ body{
     background-color: #0E8784;
 }
 .thre__inner__title{
+    margin-left: 28px;
     padding-top: 32px;
     margin-bottom: 28px;
     font-family: 'Fraunces';
