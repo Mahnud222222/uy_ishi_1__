@@ -592,10 +592,15 @@ body{
     height: 48px;
 }
 .thre__inner__list{
+    margin-bottom: 88px;
+    margin-top: 56px;
     display: flex;
     justify-content: space-between;
+}
+.thre__inner__item{
     background-color: #F4F1EB;
     border-radius: 8px;
+    width: 228px;
 }
 
 
