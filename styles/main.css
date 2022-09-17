@@ -576,6 +576,10 @@ body{
     line-height: 48px;
     color: #83888F;
 }
+.main__thre__list__butten{
+    border: none;
+    height: 48px;
+}
 .thre__inner__list{
     display: flex;
     justify-content: space-between;
