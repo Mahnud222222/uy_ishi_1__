@@ -478,8 +478,12 @@ body{
     margin-top: 140px;
      background-color: #2C343E;
     border-radius: 10px;
+    position: relative;
 }
 .sd__list__line{
+    top: 832px;
+    position: absolute;
+    height: 2px;
     width: 790px;
     background-color: #FEFCF7;
     z-index: -1;
@@ -487,6 +491,7 @@ body{
     justify-content: space-between;
     height: 1px;
     background-color:  #FDD6BA; 
+    margin-left: 85px;
     margin-top: 95px;
     margin-bottom: 82px;
 }
