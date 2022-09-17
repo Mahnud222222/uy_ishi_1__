@@ -474,15 +474,12 @@ body{
     padding-bottom: 134px;
 }
 .sd__list{
-    position: relative;
+    height: 653px;
     margin-top: 140px;
      background-color: #2C343E;
     border-radius: 10px;
 }
 .sd__list__line{
-    top: 100px;
-    left: 85px;
-    position: absolute;
     width: 790px;
     background-color: #FEFCF7;
     z-index: -1;
