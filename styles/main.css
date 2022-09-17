@@ -583,6 +583,8 @@ body{
 .main__thre__list__butten{
     background-image: url("../img/tepa.svg");
     background-repeat: no-repeat;
+    background-position-x: calc(50%);
+    background-position-y: 50%;
     display: inline-block;
     align-items: center;
     border: none;
