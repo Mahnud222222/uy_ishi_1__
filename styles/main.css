@@ -564,6 +564,9 @@ body{
 .thre__list__text:hover{
     color: #333D4B;
 }
+.main__thre__list{
+    list-style: none;
+}
 .main__thre__list__div{
     height: 48px;
     display: flex;
