@@ -35,7 +35,7 @@ body{
 .cotaintr{
     margin: 0 auto;
     padding: 0 20px;
-     max-width: 1280px;
+    max-width: 1320px;
 }
 .header__div{
     display: flex;
