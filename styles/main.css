@@ -30,7 +30,7 @@ body{
 body{
     margin: 0;
     padding: 0;
-     background-color: #F2F2F2;
+    background-color: #F2F2F2;
 }
 .cotaintr{
     margin: 0 auto;
@@ -48,13 +48,14 @@ body{
     display: flex;
     justify-content: space-between;
 }
+
 .navbar__link{
    padding-top: 50px;
    font-weight: 700;
    font-style: 12px;
    line-height: 15px;
     color:#83888F;
-
+    text-decoration: none;
 }
 .navbar__link:hover{
     color: #333D4B;
